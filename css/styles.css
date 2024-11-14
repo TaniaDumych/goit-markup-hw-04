@@ -136,10 +136,9 @@ color: #404BBF;
 }
 .hero-image {
 padding: 188px 0 188px;
-background: #2e2f42;
 align-items: center;
 max-width: 1440px;
-background-image: linear-gradient (rgba(46, 47, 66, 0.7),rgba(46, 47, 66, 0.7)), url(./images/people-office.jpg);
+background-image: linear-gradient(rgba(46, 47, 66, 0.7),rgba(46, 47, 66, 0.7)), url(./images/background/people-office.jpg);
 background-repeat: no-repeat;
 background-position: center;
 background-size: cover;
