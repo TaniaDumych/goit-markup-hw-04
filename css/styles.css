@@ -215,12 +215,12 @@ border: 1px solid #8e8f99;
 border-radius: 4px;
 background: #f4f4fd;
 margin-bottom: 8px;
+justify-content: center;
+align-items: center;
+padding: 24px 100px;
 }
 .opportunities-icons {
-width: 64px;
-height: 64px;
-text-align: center;
-justify-content: center;
+fill: none;
 }
 .name-opportunities {
 gap: 24px;
